@@ -9,7 +9,7 @@ This project is an interactive Power BI dashboard developed to analyze gym busin
 - Data Modeling
 - Power Query
 
-##Dashboard Features
+## Dashboard Features
 • Revenue Analysis
 • Customer Analysis
 • Churn Analysis
@@ -32,7 +32,7 @@ This project is an interactive Power BI dashboard developed to analyze gym busin
 
 
 
-##Business Recommendations
+## Business Recommendations
 
 • Improve retention strategies to reduce customer churn.
 • Investigate products with high return rates.
@@ -40,7 +40,7 @@ This project is an interactive Power BI dashboard developed to analyze gym busin
 • Optimize inventory planning for high-demand products.
 • Use seasonal revenue trends for promotional campaigns.
 
-##Skills Demostrated
+## Skills Demostrated
 
 • Power BI
 • DAX
